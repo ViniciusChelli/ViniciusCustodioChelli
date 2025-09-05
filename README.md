@@ -121,7 +121,7 @@ Repo (docs/público): **Em Andamento**
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vin%C3%ADciuschelli-517712210/">LinkedIn</a> • 
-  <a href=" http://lattes.cnpq.br/4808660925211602S">Lattes</a> • 
+  <a href=" "http://lattes.cnpq.br/4808660925211602S">Lattes</a> • 
   <a href="mailto:theongatechelli@gmail.com">theongatechelli@gmail.com</a>
 </p>
 
