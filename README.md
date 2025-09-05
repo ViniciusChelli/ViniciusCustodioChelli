@@ -112,6 +112,28 @@ NPCs autônomos (LLM + DQL + TTS), Unity/Godot e robótica. Ciência pra transfo
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight" height="160"/>
+  ## 📚 Aulas de R (materiais)
+Repositório com scripts, datasets e notebooks das minhas aulas e monitorias de R:
+- **[ensino-codigos](https://github.com/SEU_USUARIO/ensino-codigos)**  
+  <sub>fundamentos da linguagem, limpeza de dados, EDA, visualização, modelagem com `tidymodels`/`caret`.</sub>
+
+<p align="center">
+  <a href="https://github.com/SEU_USUARIO/ensino-codigos">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=ensino-codigos&theme=tokyonight" />
+  </a>
+</p>
+
+## 🧪 Projetinhos de ML (R)
+Mini-projetos didáticos (dados clássicos, pipeline completo: limpeza → EDA → treino → métricas):
+- 🍷 **Classificador de Vinhos** (quality) — [código](https://github.com/SEU_USUARIO/ensino-codigos/tree/main/R/ml_vinhos)  
+  `tidymodels` (logístico/árvore/rf), grid search, matriz de confusão, ROC.
+- 🎗️ **Câncer de Mama (Wisconsin)** — [código](https://github.com/SEU_USUARIO/ensino-codigos/tree/main/R/ml_cancer_mama)  
+  seleção de features, comparação SVM vs. Random Forest, explicabilidade simples.
+- 🩺 **Diabetes (Pima)** — [código](https://github.com/SEU_USUARIO/ensino-codigos/tree/main/R/ml_diabetes)  
+  validação estratificada, métricas macro, curva PR.
+- 🧹 **Limpeza + EDA** — [código](https://github.com/SEU_USUARIO/ensino-codigos/tree/main/R/eda_limpeza)  
+  tratamento de NA/outliers, encoding, `ggplot2` (distribuições, correlações).
+
 </p>
 
 ---
