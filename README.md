@@ -84,12 +84,12 @@ Repo: **https://github.com/SEU_USUARIO/quadrupede-arduino-nano**
 
 **1) Análise de Sentimentos em Comentários do YouTube (IC concluída)**  
 Pipeline em **R**: coleta API → limpeza (stemming/lemmatização/stopwords) → features (n-grams/TF-IDF) → modelos (**Naive Bayes / SVM / MLP**) → validação estratificada e F1/ROC.  
-Repo: **https://github.com/SEU_USUARIO/youtube-sentiment-r** • Poster/PDF: _(link quando público)_
+Repo: **https://github.com/ViniciusChelli/WICSI_2022**
 
 **2) Projeto Sophia — NPCs Autônomos com IA (IC em conclusão)**  
 Unity + **Mistral 7B (local/QLoRA)** + **CoquiTTS** + **Deep Q-Learning** + **RNN memória** + **NavMesh** + Closed Captions.  
 Status: fala/escuta ok, memória curta/longa, integração Unity/servidor; próximos passos: instanciar em cena, locomoção autônoma e HUD final.  
-Repo (docs/público): **https://github.com/SEU_USUARIO/sophia-project**
+Repo (docs/público): **Em Andamento**
 
 <!-- ─────────────────────────────────────────────────────────── -->
 <h3 align="center">📚 Aulas de R & Projetinhos</h3>
@@ -120,8 +120,8 @@ Repo (docs/público): **https://github.com/SEU_USUARIO/sophia-project**
 <h3 align="center">🌐 Links</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN">LinkedIn</a> • 
-  <a href="https://lattes.cnpq.br/SEU_LATTES">Lattes</a> • 
+  <a href="https://www.linkedin.com/in/vin%C3%ADciuschelli-517712210/">LinkedIn</a> • 
+  <a href=" http://lattes.cnpq.br/4808660925211602S">Lattes</a> • 
   <a href="mailto:theongatechelli@gmail.com">theongatechelli@gmail.com</a>
 </p>
 
